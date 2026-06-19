@@ -24,7 +24,7 @@ function App() {
   }
   return (
     <>
-     <h1>this is counter {counter} </h1>
+     <h1>this is counter: {counter} </h1>
      <button onClick={addvalue}> add value {counter} </button>
       <button onClick={removeval}> Remove value {counter} </button>
     </>
