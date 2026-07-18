@@ -75,13 +75,13 @@ Through these projects, I learned:
 Clone the repository:
 
 ```bash
-git clone https://github.com/GaneshNaik2006/<repository-name>.git
+git clone https://github.com/GaneshNaik2006/React.git
 ```
 
 Move into the project folder:
 
 ```bash
-cd <repository-name>
+cd React
 ```
 
 Install dependencies:
